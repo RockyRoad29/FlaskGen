@@ -1,5 +1,4 @@
-myapp
-================
+# myapp
 
 A "Larger" flask app conforming to
 http://flask.pocoo.org/docs/patterns/packages/

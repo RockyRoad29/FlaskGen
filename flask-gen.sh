@@ -18,8 +18,7 @@ app.run(debug=True)
 EOF
 
 cat <<EOF > README.md
-$yourapplication
-================
+# $yourapplication
 
 A "Larger" flask app conforming to
 http://flask.pocoo.org/docs/patterns/packages/

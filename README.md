@@ -30,5 +30,5 @@ Licence
 -------
 Copyright (c) 2014 Michelle Baert
 
-Distributed under the GNU GPL v2. For full terms see the file `LICENSE`.
+Distributed under the GNU GPL v3. For full terms see the file `LICENSE`.
 

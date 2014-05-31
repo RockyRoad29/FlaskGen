@@ -30,11 +30,29 @@ its extraction.
 
 Based on http://flask.pocoo.org/docs/quickstart
 
+    myapp/
+    ├── myapp.py
+    ├── README.md
+    └── requirements.txt
+
 ### Larger
 
 A "Larger" Flask app conforming to
 http://flask.pocoo.org/docs/patterns/packages/
 
+    myapp/
+    ├── myapp
+    │   ├── __init__.py
+    │   ├── static
+    │   │   └── style.css
+    │   ├── templates
+    │   │   ├── index.html
+    │   │   ├── layout.html
+    │   │   └── login.html
+    │   └── views.py
+    ├── README.md
+    ├── requirements.txt
+    └── runserver.py
 
 ## Licence
 Copyright (c) 2014 Michelle Baert

@@ -30,6 +30,11 @@ its extraction.
 
 Based on http://flask.pocoo.org/docs/quickstart
 
+    myapp/
+    ├── myapp.py
+    ├── README.md
+    └── requirements.txt
+    
 ### Larger
 
 A "Larger" Flask app conforming to

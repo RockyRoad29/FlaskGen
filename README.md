@@ -25,10 +25,23 @@ For convenience, the generated contents for "myapp" is tracked in the
 git system; Specifying the script name on checkout command prevents
 its extraction.
 
+The Branches
+------------
+
+QuickStart
+~~~~~~~~~~
+
+Based on http://flask.pocoo.org/docs/quickstart
+
+Larger
+~~~~~~
+
+A "Larger" Flask app conforming to
+http://flask.pocoo.org/docs/patterns/packages/
+
 
 Licence
 -------
 Copyright (c) 2014 Michelle Baert
 
 Distributed under the GNU GPL v3. For full terms see the file `LICENSE`.
-

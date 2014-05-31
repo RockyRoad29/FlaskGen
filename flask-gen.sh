@@ -25,8 +25,7 @@ if __name__ == '__main__':
     app.run()
 EOF
 cat <<EOF > README.md
-$yourapplication
-================
+# $yourapplication
 
 A minimal flask app conforming to
 http://flask.pocoo.org/docs/quickstart

@@ -1,5 +1,4 @@
-FlaskGen
-========
+# FlaskGen
 
 Generating a [http://flask.pocoo.org](Flask) application layout with
 the name of your choice.
@@ -25,23 +24,19 @@ For convenience, the generated contents for "myapp" is tracked in the
 git system; Specifying the script name on checkout command prevents
 its extraction.
 
-The Branches
-------------
+## The Branches
 
-QuickStart
-~~~~~~~~~~
+### QuickStart
 
 Based on http://flask.pocoo.org/docs/quickstart
 
-Larger
-~~~~~~
+### Larger
 
 A "Larger" Flask app conforming to
 http://flask.pocoo.org/docs/patterns/packages/
 
 
-Licence
--------
+## Licence
 Copyright (c) 2014 Michelle Baert
 
 Distributed under the GNU GPL v3. For full terms see the file `LICENSE`.
